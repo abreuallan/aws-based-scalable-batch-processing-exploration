@@ -1,5 +1,5 @@
 
-# AWS Based Scalable Batch Exploration Layer
+# AWS Based Scalable Batch Processing and Exploration
 
 This cloud based architecture is meant to be **highly scalable**, allowing for **massive data growth without loss of performance** due to the **distributed nature** of the tools used. All tools referenced are part of the **AWS Suite**.
 
